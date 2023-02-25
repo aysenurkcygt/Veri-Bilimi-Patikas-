@@ -1,1 +1,1 @@
-# Veri-Bilimi-Patikas-
+# Veri Bilimi Patikası
